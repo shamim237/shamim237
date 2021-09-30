@@ -7,5 +7,6 @@ I am **Shamim Mahbub** and this is my github profile.
 - 🌱 I’m currently working on **Reinforcement Learning Projects**
 - 🤔 I’m looking for help with **DL/RL Projects**
 - 📫 How to reach me: +88017-20506729, 
-     eamil- shamimmahbub230@gmail.com
+     e-mail- shamimmahbub230@gmail.com,
+     LinkedIn- https://www.linkedin.com/in/shamim237/
 
