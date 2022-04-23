@@ -10,4 +10,4 @@ I am **Shamim Mahbub** and this is my github profile.
      e-mail- shamimmahbub230@gmail.com,
      LinkedIn- https://www.linkedin.com/in/shamim237/
      
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shamim237&theme=highcontrast&show_icons=true&count_private=true)
