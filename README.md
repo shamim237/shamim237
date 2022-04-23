@@ -3,7 +3,7 @@
 I am **Shamim Mahbub** and this is my github profile.
 
 
-- 🔭 I’m currently working at **Zibew** as an **Software Engineer (NLP)**.
+- 🔭 I’m currently working at **Zibew** as a **Software Engineer (NLP)**.
 - 🌱 I’m currently working on **AI Chatbot projects on Jarvis App**
 - 🤔 I’m looking for help with **DL/RL/NLP Projects**
 - 📫 How to reach me: +88017-20506729, 
