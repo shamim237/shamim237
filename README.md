@@ -3,8 +3,8 @@
 I am **Shamim Mahbub** and this is my github profile.
 
 
-- 🔭 I’m currently working at **Zibew** as a **Software Engineer (NLP)**.
-- 🌱 I’m currently working on **AI Chatbot projects on Jarvis App**
+- 🔭 I’m currently working at **Spekter GmbH** as a **Machine Learning Engineer**.
+- 🌱 I’m currently working on Aamzon Cloudwatch, Nameko, and boto3.
 - 🤔 I’m looking for help with **DL/RL/NLP Projects**
 - 📫 How to reach me: +88017-20506729, 
      e-mail- shamimmahbub230@gmail.com,
