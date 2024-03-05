@@ -1,13 +1,30 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://i.pinimg.com/564x/5e/d5/8c/5ed58cbf79e583bfbab7016077008e28.jpg" alt="MasterHead">
+</div>
 
-I am **Shamim Mahbub** and this is my github profile.
+<h1 align="center">Hi 👋, I'm Shamim</h1>
+<h3 align="center">I am a Machine Learning Engineer at Spekter GmbH</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamim237&label=Profile%20views&color=0e75b6&style=flat" alt="shamim237" /> </p>
 
-- 🔭 I’m currently working at **Spekter GmbH** as a **Machine Learning Engineer**.
-- 🌱 I’m currently working on Aamzon Cloudwatch, Nameko, and boto3.
-- 🤔 I’m looking for help with **DL/RL/NLP Projects**
-- 📫 How to reach me: +88017-20506729, 
-     e-mail- shamimmahbub230@gmail.com,
-     LinkedIn- https://www.linkedin.com/in/shamim237/
-     
-![Github stats](https://github-readme-stats.vercel.app/api?username=shamim237&theme=highcontrast&show_icons=true&count_private=true)
+### I am interested in:
+  - Machine Learning 🤖
+  - Deep Learning 🧠
+  - Natural Language Processing 📝
+
+📫 How to reach me: +88017-20506729, 
+     e-mail- sha237mim@gmail.com,
+     LinkedIn- [shamim237](https://www.linkedin.com/in/shamim237/)
+</p>
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim237&show_icons=true&locale=en&layout=compact" alt="shamim237" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shamim237&show_icons=true&locale=en&bg_color=ffffff" alt="shamim237" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamim237&" alt="shamim237" />
+</p>
