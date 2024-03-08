@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/564x/5e/d5/8c/5ed58cbf79e583bfbab7016077008e28.jpg" alt="MasterHead">
+  <img src="https://cdn.shotstack.io/au/v1/msgtwx8iw6/8653b1a3-4939-4739-b6b2-ad435f6dfd8a.gif" alt="MasterHead">
 </div>
 
 <h1 align="center">Hi 👋, I'm Shamim</h1>
