@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Shamim</h1>
-<h3 align="center">I am a Machine Learning Engineer at Spekter GmbH</h3>
+<h3 align="center">I am a Generative AI Engineer at Artech Digital, San Fransisco, USA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamim237&label=Profile%20views&color=0e75b6&style=flat" alt="shamim237" /> </p>
 
