@@ -153,18 +153,21 @@ Training, fine-tuning, deployment pipelines
 
 ## 📊 GitHub Activity
 
+
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=shamim237&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shamim237&theme=radical&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shamim237&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=shamim237&theme=radical&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" width="49%" />
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim237&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim237&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" alt="Top Languages" width="49%" />
 
 </div>
+
 
 ---
 
